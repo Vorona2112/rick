@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE1BCD4E2C4ECDA400C40AFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1BCD4D2C4ECDA400C40AFC /* AppDelegate.swift */; };
-		CE1BCD522C4ECDA400C40AFC /* MainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1BCD512C4ECDA400C40AFC /* MainScreenViewController.swift */; };
 		CE1BCD572C4ECDAD00C40AFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE1BCD562C4ECDAD00C40AFC /* Assets.xcassets */; };
 		CE1BCD5A2C4ECDAD00C40AFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE1BCD582C4ECDAD00C40AFC /* LaunchScreen.storyboard */; };
 		CE1BCD6A2C54DDD200C40AFC /* RickAndMortyModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE1BCD682C54DDD200C40AFC /* RickAndMortyModel.xcdatamodeld */; };
@@ -27,7 +26,6 @@
 /* Begin PBXFileReference section */
 		CE1BCD4A2C4ECDA400C40AFC /* rick and morty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rick and morty.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1BCD4D2C4ECDA400C40AFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CE1BCD512C4ECDA400C40AFC /* MainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
 		CE1BCD562C4ECDAD00C40AFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE1BCD592C4ECDAD00C40AFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE1BCD5B2C4ECDAD00C40AFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -160,7 +158,6 @@
 				CE1BCD712C54E7CC00C40AFC /* CharacterDetailViewController.swift */,
 				CE1BCD732C54E7ED00C40AFC /* FavoritesViewController.swift */,
 				CE1BCD772C54E81000C40AFC /* EpisodesViewController.swift */,
-				CE1BCD512C4ECDA400C40AFC /* MainScreenViewController.swift */,
 				CE1BCD752C54E80200C40AFC /* SearchViewController.swift */,
 			);
 			path = Controllers;
@@ -245,7 +242,6 @@
 				CE1BCD702C54E7B600C40AFC /* CharacterViewController.swift in Sources */,
 				CE1BCD802C581C8B00C40AFC /* CharacterListView.swift in Sources */,
 				CE1BCD7C2C54E82900C40AFC /* FavoriteCharacterTableViewCell.swift in Sources */,
-				CE1BCD522C4ECDA400C40AFC /* MainScreenViewController.swift in Sources */,
 				CE1BCD722C54E7CC00C40AFC /* CharacterDetailViewController.swift in Sources */,
 				CE1BCD4E2C4ECDA400C40AFC /* AppDelegate.swift in Sources */,
 				CE1BCD6A2C54DDD200C40AFC /* RickAndMortyModel.xcdatamodeld in Sources */,
